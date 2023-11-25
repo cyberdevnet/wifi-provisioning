@@ -1,0 +1,8 @@
+{
+    "board_fw_version": "0.2",
+    "board_file_name": "medusa_firmware_v0.2.bin",
+    "display_fw_version": "0.2",
+    "display_file_name": "medusa_display_firmware_v0.2.bin",
+    "board_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_firmware_v0.2.bin",
+    "display_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_display_firmware_v0.2.bin"
+}
