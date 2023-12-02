@@ -1,8 +1,8 @@
 {
-    "board_fw_version": "0.9",
-    "board_file_name": "medusa_firmware_v0.9.bin",
-    "display_fw_version": "0.9",
-    "display_file_name": "medusa_display_firmware_v0.9.bin",
-    "board_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_firmware_v0.9.bin",
-    "display_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_display_firmware_v0.9.bin"
+    "board_fw_version": "0.10",
+    "board_file_name": "medusa_firmware_v0.10.bin",
+    "display_fw_version": "0.10",
+    "display_file_name": "medusa_display_firmware_v0.10.bin",
+    "board_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_firmware_v0.10.bin",
+    "display_fw_url_path": "https://raw.githubusercontent.com/cyberdevnet/wifi-provisioning/main/medusa_display_firmware_v0.10.bin"
 }
